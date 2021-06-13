@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "crack_the_nut",
+    "name": "crack_the_nut",
+    "authors": [ "ERROR_CODE" ],
+    "description": "Because it takes too long.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

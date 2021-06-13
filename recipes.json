@@ -1,0 +1,17 @@
+[
+  {
+    "type": "recipe",
+    "result": "walnut_unshelled",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_OTHER",
+    "skill_used": "survival",
+    "difficulty": 0,
+    "time": "20 s",
+    "autolearn": true,
+    "qualities": [ { "id": "HAMMER", "level": 1 } ],
+	"batch_time_factors": [ 10, 1 ],
+    "components": [
+      [ [ "walnut", 1 ] ]
+    ]
+  }
+]
