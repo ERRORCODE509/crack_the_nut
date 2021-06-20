@@ -1,0 +1,19 @@
+[
+  {
+    "id": "nut_shell",
+      "type": "GENERIC",
+    "category": "other",
+    "name": { "str": "nut shell" },
+    "description": "Byproduct of cracking nut.Can be used as fuel",
+    "weight": "0.1 g",
+    "volume": "5 ml",
+    "price": 0,
+    "price_postapoc": 0,
+    "material": [ "wood" ],
+    "symbol": ".",
+    "flags":["TINDER"]
+    "color": "brown",
+    "stack_size": 200,
+    "looks_like": "tinder"
+  },
+]
