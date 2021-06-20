@@ -1,0 +1,34 @@
+[
+  {
+    "id": "nut_shell",
+     "type": "AMMO",
+    "ammo_type" : "nut",
+    "category": "ammo",
+    "name": { "str": "nut shell" },
+    "description": "Byproduct of cracking nut.Can be used as fuel,or as ammo",
+    "weight": "0.1 g",
+    "volume": "5 ml",
+    "price": 0,
+    "price_postapoc": 0,
+    "material": [ "wood" ],
+    "symbol": ".",
+    "flags":["FIREWOOD","TINDER"]
+    "color": "brown",
+    "stack_size": 200,
+    "looks_like": "tinder"
+  },
+   {
+    "type": "GENERIC",
+    "id": "pinecone",
+	"copy-from": "pinecone",
+    "symbol": ",",
+    "color": "brown",
+    "name": { "str": "pinecone" },
+    "description": "A spiny pod from a pine tree.  Dry seeds rattle around inside when you shake it.",
+    "material": [ "wood" ],
+	"weight": "90 g",
+    "volume": "250 ml",
+    "to_hit": -2,
+    "flags": [ "FIREWOOD","TINDER" ]
+  }
+]
