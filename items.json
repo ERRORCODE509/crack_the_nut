@@ -1,17 +1,18 @@
 [
   {
     "id": "nut_shell",
-      "type": "GENERIC",
-    "category": "other",
+     "type": "AMMO",
+    "ammo_type" : "nut",
+    "category": "ammo",
     "name": { "str": "nut shell" },
-    "description": "Byproduct of cracking nut.Can be used as fuel",
+    "description": "Byproduct of cracking nut.Can be used as fuel,or as ammo",
     "weight": "0.1 g",
     "volume": "5 ml",
     "price": 0,
     "price_postapoc": 0,
     "material": [ "wood" ],
     "symbol": ".",
-    "flags":["TINDER"]
+    "flags":["FIREWOOD","TINDER"]
     "color": "brown",
     "stack_size": 200,
     "looks_like": "tinder"
