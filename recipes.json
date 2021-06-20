@@ -2,6 +2,7 @@
   {
     "type": "recipe",
     "result": "walnut_unshelled",
+    "byproducts": [ "nut_shell",2],
     "id_suffix": "unshell_walnut",
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_OTHER",
@@ -18,6 +19,7 @@
   {
     "type": "recipe",
     "result": "almond_unshelled",
+    "byproducts": [ "nut_shell",2],
     "id_suffix": "unshell_almond",
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_OTHER",
@@ -34,6 +36,7 @@
   {
     "type": "recipe",
     "result": "pistachio_unshelled",
+    "byproducts": [ "nut_shell",2],
     "id_suffix": "unshell_pistachio",
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_OTHER",
@@ -50,6 +53,7 @@
   {
     "type": "recipe",
     "result": "pecan_unshelled",
+    "byproducts": [ "nut_shell",2],
     "id_suffix": "unshell_pecan",
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_OTHER",
@@ -66,6 +70,7 @@
   {
     "type": "recipe",
     "result": "chestnut_unshelled",
+    "byproducts": [ "nut_shell",2],
     "id_suffix": "unshell_chestnut",
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_OTHER",
@@ -82,6 +87,7 @@
   {
     "type": "recipe",
     "result": "hazelnut_unshelled",
+    "byproducts": [ "nut_shell",2],
     "id_suffix": "unshell_hazelnut",
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_OTHER",
@@ -98,6 +104,7 @@
   {
     "type": "recipe",
     "result": "peanut_unshelled",
+    "byproducts": [ "nut_shell",2],
     "id_suffix": "unshell_peanut",
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_OTHER",
@@ -114,6 +121,7 @@
   {
     "type": "recipe",
     "result": "hickory_nut_unshelled",
+    "byproducts": [ "nut_shell",2],
     "id_suffix": "unshell_hickory_nut",
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_OTHER",
